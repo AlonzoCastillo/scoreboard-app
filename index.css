@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #1B2845
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.score {
+    background: #65AFFF;
+    font-size: 90px;
+    color: #F7F3E3;
+    width: 120px;
+    margin: 20px;
+}
+
+.teams {
+    font-family: "Impact";
+    font-weight: bold;
+    font-size: 35px;
+    color: #B3B6B7;
+}
+
+.button {
+    border-radius: 8px;
+    padding: 6px;
+    background-color: transparent;
+    color: #C6CCB2;
+}
+
+.newGame {
+    border-radius: 8px;
+    padding: 6px;
+    background-color: #335C81;
+    color: #E7BB41;
+}
